@@ -1,0 +1,37 @@
+C:\Users\vanit\OneDrive - triOS College\Documents\C#sharp and .net\WhiteLagoon (9)\WhiteLagoon\WhiteLagoon.Domain\bin\Debug\net8.0\WhiteLagoon.Domain.deps.json
+C:\Users\vanit\OneDrive - triOS College\Documents\C#sharp and .net\WhiteLagoon (9)\WhiteLagoon\WhiteLagoon.Domain\bin\Debug\net8.0\WhiteLagoon.Domain.dll
+C:\Users\vanit\OneDrive - triOS College\Documents\C#sharp and .net\WhiteLagoon (9)\WhiteLagoon\WhiteLagoon.Domain\bin\Debug\net8.0\WhiteLagoon.Domain.pdb
+C:\Users\vanit\OneDrive - triOS College\Documents\C#sharp and .net\WhiteLagoon (9)\WhiteLagoon\WhiteLagoon.Domain\obj\Debug\net8.0\WhiteLagoon.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vanit\OneDrive - triOS College\Documents\C#sharp and .net\WhiteLagoon (9)\WhiteLagoon\WhiteLagoon.Domain\obj\Debug\net8.0\WhiteLagoon.Domain.AssemblyInfoInputs.cache
+C:\Users\vanit\OneDrive - triOS College\Documents\C#sharp and .net\WhiteLagoon (9)\WhiteLagoon\WhiteLagoon.Domain\obj\Debug\net8.0\WhiteLagoon.Domain.AssemblyInfo.cs
+C:\Users\vanit\OneDrive - triOS College\Documents\C#sharp and .net\WhiteLagoon (9)\WhiteLagoon\WhiteLagoon.Domain\obj\Debug\net8.0\WhiteLagoon.Domain.csproj.CoreCompileInputs.cache
+C:\Users\vanit\OneDrive - triOS College\Documents\C#sharp and .net\WhiteLagoon (9)\WhiteLagoon\WhiteLagoon.Domain\obj\Debug\net8.0\WhiteLagoon.Domain.sourcelink.json
+C:\Users\vanit\OneDrive - triOS College\Documents\C#sharp and .net\WhiteLagoon (9)\WhiteLagoon\WhiteLagoon.Domain\obj\Debug\net8.0\WhiteLagoon.Domain.dll
+C:\Users\vanit\OneDrive - triOS College\Documents\C#sharp and .net\WhiteLagoon (9)\WhiteLagoon\WhiteLagoon.Domain\obj\Debug\net8.0\refint\WhiteLagoon.Domain.dll
+C:\Users\vanit\OneDrive - triOS College\Documents\C#sharp and .net\WhiteLagoon (9)\WhiteLagoon\WhiteLagoon.Domain\obj\Debug\net8.0\WhiteLagoon.Domain.pdb
+C:\Users\vanit\OneDrive - triOS College\Documents\C#sharp and .net\WhiteLagoon (9)\WhiteLagoon\WhiteLagoon.Domain\obj\Debug\net8.0\ref\WhiteLagoon.Domain.dll
+C:\Users\vanit\Downloads\WhiteLagoon-main\WhiteLagoon-main\WhiteLagoon\WhiteLagoon.Domain\bin\Debug\net8.0\WhiteLagoon.Domain.deps.json
+C:\Users\vanit\Downloads\WhiteLagoon-main\WhiteLagoon-main\WhiteLagoon\WhiteLagoon.Domain\bin\Debug\net8.0\WhiteLagoon.Domain.dll
+C:\Users\vanit\Downloads\WhiteLagoon-main\WhiteLagoon-main\WhiteLagoon\WhiteLagoon.Domain\bin\Debug\net8.0\WhiteLagoon.Domain.pdb
+C:\Users\vanit\Downloads\WhiteLagoon-main\WhiteLagoon-main\WhiteLagoon\WhiteLagoon.Domain\obj\Debug\net8.0\WhiteLagoon.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vanit\Downloads\WhiteLagoon-main\WhiteLagoon-main\WhiteLagoon\WhiteLagoon.Domain\obj\Debug\net8.0\WhiteLagoon.Domain.AssemblyInfoInputs.cache
+C:\Users\vanit\Downloads\WhiteLagoon-main\WhiteLagoon-main\WhiteLagoon\WhiteLagoon.Domain\obj\Debug\net8.0\WhiteLagoon.Domain.AssemblyInfo.cs
+C:\Users\vanit\Downloads\WhiteLagoon-main\WhiteLagoon-main\WhiteLagoon\WhiteLagoon.Domain\obj\Debug\net8.0\WhiteLagoon.Domain.csproj.CoreCompileInputs.cache
+C:\Users\vanit\Downloads\WhiteLagoon-main\WhiteLagoon-main\WhiteLagoon\WhiteLagoon.Domain\obj\Debug\net8.0\WhiteLagoon.Domain.sourcelink.json
+C:\Users\vanit\Downloads\WhiteLagoon-main\WhiteLagoon-main\WhiteLagoon\WhiteLagoon.Domain\obj\Debug\net8.0\WhiteLagoon.Domain.dll
+C:\Users\vanit\Downloads\WhiteLagoon-main\WhiteLagoon-main\WhiteLagoon\WhiteLagoon.Domain\obj\Debug\net8.0\refint\WhiteLagoon.Domain.dll
+C:\Users\vanit\Downloads\WhiteLagoon-main\WhiteLagoon-main\WhiteLagoon\WhiteLagoon.Domain\obj\Debug\net8.0\WhiteLagoon.Domain.pdb
+C:\Users\vanit\Downloads\WhiteLagoon-main\WhiteLagoon-main\WhiteLagoon\WhiteLagoon.Domain\obj\Debug\net8.0\ref\WhiteLagoon.Domain.dll
+C:\Users\vanit\OneDrive - triOS College\Documents\C#sharp and .net\WhiteLagoon\WhiteLagoon.Domain\bin\Debug\net8.0\WhiteLagoon.Domain.deps.json
+C:\Users\vanit\OneDrive - triOS College\Documents\C#sharp and .net\WhiteLagoon\WhiteLagoon.Domain\bin\Debug\net8.0\WhiteLagoon.Domain.dll
+C:\Users\vanit\OneDrive - triOS College\Documents\C#sharp and .net\WhiteLagoon\WhiteLagoon.Domain\bin\Debug\net8.0\WhiteLagoon.Domain.pdb
+C:\Users\vanit\OneDrive - triOS College\Documents\C#sharp and .net\WhiteLagoon\WhiteLagoon.Domain\obj\Debug\net8.0\WhiteLagoon.Domain.csproj.AssemblyReference.cache
+C:\Users\vanit\OneDrive - triOS College\Documents\C#sharp and .net\WhiteLagoon\WhiteLagoon.Domain\obj\Debug\net8.0\WhiteLagoon.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vanit\OneDrive - triOS College\Documents\C#sharp and .net\WhiteLagoon\WhiteLagoon.Domain\obj\Debug\net8.0\WhiteLagoon.Domain.AssemblyInfoInputs.cache
+C:\Users\vanit\OneDrive - triOS College\Documents\C#sharp and .net\WhiteLagoon\WhiteLagoon.Domain\obj\Debug\net8.0\WhiteLagoon.Domain.AssemblyInfo.cs
+C:\Users\vanit\OneDrive - triOS College\Documents\C#sharp and .net\WhiteLagoon\WhiteLagoon.Domain\obj\Debug\net8.0\WhiteLagoon.Domain.csproj.CoreCompileInputs.cache
+C:\Users\vanit\OneDrive - triOS College\Documents\C#sharp and .net\WhiteLagoon\WhiteLagoon.Domain\obj\Debug\net8.0\WhiteLagoon.Domain.sourcelink.json
+C:\Users\vanit\OneDrive - triOS College\Documents\C#sharp and .net\WhiteLagoon\WhiteLagoon.Domain\obj\Debug\net8.0\WhiteLagoon.Domain.dll
+C:\Users\vanit\OneDrive - triOS College\Documents\C#sharp and .net\WhiteLagoon\WhiteLagoon.Domain\obj\Debug\net8.0\refint\WhiteLagoon.Domain.dll
+C:\Users\vanit\OneDrive - triOS College\Documents\C#sharp and .net\WhiteLagoon\WhiteLagoon.Domain\obj\Debug\net8.0\WhiteLagoon.Domain.pdb
+C:\Users\vanit\OneDrive - triOS College\Documents\C#sharp and .net\WhiteLagoon\WhiteLagoon.Domain\obj\Debug\net8.0\ref\WhiteLagoon.Domain.dll
